@@ -1,0 +1,26 @@
+{
+  "name": "is-os",
+  "version": "1.0.0",
+  "description": "isWindows() isLinux() isMac()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jonahss/is-os.git"
+  },
+  "keywords": [
+    "os",
+    "platform",
+    "isWindows",
+    "isLinux",
+    "isMac"
+  ],
+  "author": "jonahss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonahss/is-os/issues"
+  },
+  "homepage": "https://github.com/Jonahss/is-os"
+}
